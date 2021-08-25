@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-# Ultron Discord Bot
-Ultron is a bot made for the [Marvel Infinity Server](https://discord.gg/marvelinfinity)
-
-This page is long away from being done, but it's being worked on!
 =======
 ## Welcome to GitHub Pages
 
@@ -45,4 +40,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> Stashed changes
