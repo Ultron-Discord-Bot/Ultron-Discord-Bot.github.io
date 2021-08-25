@@ -6,3 +6,5 @@ search_enabled: true
 aux_links:
   "Marvel Infinity Discord Server":
     - "//discord.gg/marvelinfinity"
+
+logo: "/assets/ultron.png"
